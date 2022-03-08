@@ -1,7 +1,10 @@
 
 body{
-  background-color: rgb(240, 190, 241);
+  background-color: rgb(190, 238, 241);
 }
 article{
   font-family: 'Courier New', Courier, monospace;
+}
+h1{
+  color: red;
 }
