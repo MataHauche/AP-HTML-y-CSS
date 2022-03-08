@@ -1,10 +1,7 @@
-
-body{
-  background-color: rgb(190, 238, 241);
+body {
+  background: lightgray;
 }
-article{
-  font-family: 'Courier New', Courier, monospace;
+#container {
 }
-h1{
-  color: red;
+.article {
 }
